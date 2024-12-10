@@ -21,7 +21,7 @@
       - **Radarr:**  
         [Radarr Dashboard](http://192.168.4.50:8123/db21ed7f_radarr_nas/ingress)
       - **SabNAB:**  
-        [SabNAB Dashboard](http://192.168.4.50:8089/)
+        [SabNAB Dashboard](http://192.168.4.50:8089/)  
         Credentials 1Password SabNZB
       - **qBitTorrent:**  
         [qBitTorrent Dashboard](http://192.168.4.50:8082/#//)
