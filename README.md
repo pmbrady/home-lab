@@ -1,7 +1,7 @@
 # Home-Lab
 
 ## NAS
-- **Host:** [NAS Sign-In](http://192.168.4.39:5000/#/signin)  
+- **Host:** [NAS Dashboard](http://192.168.4.39:5000/#/signin)  
 - **Credentials:** 1Password NAS  
 
 ## Proxmox
