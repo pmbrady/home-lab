@@ -34,8 +34,8 @@
     - **Credentials:** 1Password docker server (proxmox)
     - Containers
       - **Immich:**  
-        - A high-performance self-hosted photo and video backup solution.  
-        - More details: Add link or description here if applicable.
+        [SabNAB Dashboard](http://192.168.4.67:2283/)
+        Credentials 1Password Immich web
 
 
 
