@@ -34,7 +34,7 @@
     - **Credentials:** 1Password docker server (proxmox)
     - Containers
       - **Immich:**  
-        [SabNAB Dashboard](http://192.168.4.67:2283/)
+        [Immich Dashboard](http://192.168.4.67:2283/)
         Credentials 1Password Immich web
 
 
